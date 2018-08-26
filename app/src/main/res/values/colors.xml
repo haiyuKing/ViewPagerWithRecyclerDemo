@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- *********************************顶部选项卡区域********************************* -->
+    <!-- 顶部选项卡下划线背景色 -->
+    <color name="tab_auto_normal_top">#00ffffff</color>
+    <color name="tab_auto_selected_top">#3090d9</color>
+    <!-- 顶部选项卡文本颜色 -->
+    <color name="tab_text_normal_top">#191919</color>
+    <color name="tab_text_selected_top">#3090d9</color>
+</resources>

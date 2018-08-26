@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- *********************************顶部选项卡区域********************************* -->
+    <!-- 选项卡的内边距 -->
+    <dimen name="tab_top_auto_padding">10dp</dimen>
+    <!-- 选项卡标题的文字大小 -->
+    <dimen name="tab_top_auto_title_size">18sp</dimen>
+    <!-- 选项卡标题的下划线高度 -->
+    <dimen name="tab_top_auto_height">3dp</dimen>
+</resources>
